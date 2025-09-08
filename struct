@@ -1,0 +1,16 @@
+structgen/
+├── cmd/
+│   └── structgen/
+│       └── main.go
+├── internal/
+│   ├── app/
+│   │   └── app.go
+│   ├── fsops/
+│   │   └── apply.go
+│   ├── parser/
+│   │   └── parser.go
+│   ├── plan/
+│   │   └── plan.go
+│   └── safety/
+│       └── safety.go
+└── go.mod
